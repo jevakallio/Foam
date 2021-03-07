@@ -9,7 +9,6 @@ Foam code and documentation live in the monorepo at [foambubble/foam](https://gi
 - [/docs](https://github.com/foambubble/foam/tree/master/docs): documentation and [[recipes]].
 - [/packages/foam-core](https://github.com/foambubble/foam/tree/master/packages/foam-core) - Powers the core functionality in Foam across all platforms.
 - [/packages/foam-vscode](https://github.com/foambubble/foam/tree/master/packages/foam-vscode) - The core VSCode plugin.
-- [/packages/foam-cli](https://github.com/foambubble/foam/tree/master/packages/foam-cli) - The Foam CLI tool.
 
 Exceptions to the monorepo are:
 - The starter template at [foambubble/foam-template](https://github.com/foambubble/)
